@@ -1,0 +1,3 @@
+echo
+
+nginx -s quit
